@@ -9,6 +9,26 @@ $ bee run
 
 ## Tasks
 
+- [x] Writing a Working API
+- [ ] Accessing Database
+- [ ] Using OAuth / Any API Security
+- [ ] Writing Tests
+- [ ] Mocking
+- [ ] Clean Architecture
+- [ ] Deploying to AWS Lambda
+- [ ] Building APIs
+
+### One hour Tasks
+
+Above tasks are made into smaller and specific chunks.
+
+#### Set One
+
+- [ ] Beego ORM
+- [ ] Gorm
+
+## Concepts
+
 ### Golang Concepts
 
 - Structs
