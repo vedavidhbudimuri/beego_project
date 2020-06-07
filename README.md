@@ -10,7 +10,7 @@ $ bee run
 ## Tasks
 
 - [x] Writing a Working API
-- [ ] Accessing Database
+- [x] Accessing Database
 - [ ] Using OAuth / Any API Security
 - [ ] Writing Tests
 - [ ] Mocking
@@ -24,8 +24,8 @@ Above tasks are made into smaller and specific chunks.
 
 #### Set One
 
-- [ ] Beego ORM
-- [ ] Gorm
+- [x] Beego ORM
+- [x] Gorm
 
 ## Concepts
 
@@ -35,8 +35,8 @@ Above tasks are made into smaller and specific chunks.
   - Inheritance
   - References:
     - [Structure Basics](https://medium.com/rungo/structures-in-go-76377cc106a2)
-    - [Interfaces](https://medium.com/rungo/interfaces-in-go-ab1601159b3a)
 - Interfaces
+  - [Reference](https://medium.com/rungo/interfaces-in-go-ab1601159b3a)
 - Pointers/references
 - Exported Identifiers
   - References:
@@ -44,6 +44,9 @@ Above tasks are made into smaller and specific chunks.
 - Json Parsing
   - [Reference I](https://yourbasic.org/golang/json-example/)
   - [Reference II](https://eager.io/blog/go-and-json/)
+- Exceptions
+  - [Reference](https://medium.com/rungo/error-handling-in-go-f0125de052f0)
+- Debugging
 
 ### Beego Concepts
 

@@ -23,7 +23,6 @@ type AuthCreds struct {
 func (controller *LoginController) Post() {
 
 	var userLoginDetails UserLoginDetails
-	fmt.Println(controller.Ctx.Input.RequestBody)
 	err := json.Unmarshal(controller.Ctx.Input.RequestBody, &userLoginDetails)
 	if err != nil {
 		controller.Ctx.Output.SetStatus(400)
