@@ -52,3 +52,7 @@ Above tasks are made into smaller and specific chunks.
 
 - Request Body Handling
   - [Accessing Request Body](https://stackoverflow.com/questions/30982891/beego-post-request-body-always-empty)
+
+### Useful links
+
+- [Go Web Examples](https://gowebexamples.com/mysql-database/)
