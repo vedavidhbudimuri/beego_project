@@ -35,6 +35,8 @@ Above tasks are made into smaller and specific chunks.
   - Inheritance
   - References:
     - [Structure Basics](https://medium.com/rungo/structures-in-go-76377cc106a2)
+  - Anonymous Structures: [Refer](https://talks.golang.org/2012/10things.slide#1)
+  
 - Interfaces
   - [Reference](https://medium.com/rungo/interfaces-in-go-ab1601159b3a)
 - Pointers/references
@@ -56,3 +58,14 @@ Above tasks are made into smaller and specific chunks.
 ### Useful links
 
 - [Go Web Examples](https://gowebexamples.com/mysql-database/)
+
+### Moving from Go way of API Dev to Python (Django) way of API Dev
+
+I think a lot has changed since then, coming to the frameworks beego, gingonic,echo seem to be more adopted now (Im just saying by the github stars I guess thats shouldn't be the only metric)
+
+And Im from Django background so curios how to handle
+
+- Serialization - I used DjangoRestFramework, I see mostly using struct pointer
+- Apps - In Django everything is organized into group of apps - I dont see any such structure suggestion here, (Could be a go way of doing things) so how to organize different independent parts of same project.
+- ORM - Coming from a Django background I was very happy with the django ORM, but here mostly I see developers encourage writing SQL queries. And majorly `Migrations` , I miss using migrations in Go lang.
+-
